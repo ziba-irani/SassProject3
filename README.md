@@ -2,7 +2,7 @@
 
 **enjoy of my new Sass project**
 
-![sass](https://github.com/ziba-irani/SassProject-2-/assets/125620113/e55e0016-99b0-4414-9c0b-514f0c15d651)
+![sassproject3](https://github.com/ziba-irani/SassProject-2-/assets/125620113/4f9febc5-6628-4a16-ad99-0e3dba09d5ae)
 
 - [Demo Project](https://ziba-irani.github.io/SassProject-2-/)
 
